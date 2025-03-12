@@ -2,7 +2,7 @@
 
 #### [Video Demo:](https://youtu.be/XED2Mh3h3zE)
 
-<a href="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/project/img/CS50%20FINAL%20PROJECT.gif#"><img src="https://youtu.be/XED2Mh3h3zE" style="height: 80%; width:80%;"/></a>
+<a href="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/project/img/CS50%20FINAL%20PROJECT.gif"><img src="https://youtu.be/XED2Mh3h3zE" style="height: 80%; width:80%;"/></a>
 
 ## 🎯 Description:
 
