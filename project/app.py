@@ -1,7 +1,7 @@
 # 1) https://pypi.org/project/streamlit/
 
-# 2) Terminal: cd Birds > pip install -r requirements.txt
-#                       > streamlit run app.py
+# 2) Terminal: cd project > install -r requirements.txt
+#                         > streamlit run app.py
 
 # 3) Welcome to Streamlit! / You can now view your Streamlit app in your browser
 #-------------------------------------------------------------------------------
