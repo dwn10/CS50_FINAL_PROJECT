@@ -1,4 +1,6 @@
-# Database Design: Local Markets and Producers Directory
+# CS50 SQL - FINAL PROJECT
+
+## Database Design: Local Markets and Producers Directory
 
 - **Author**: Darwin Paz
 - **Usernames**: GitHub: dwn10, EdX: DP_2501_BYJ6
