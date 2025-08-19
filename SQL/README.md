@@ -7,9 +7,9 @@
 - **City and Country**: Darmstadt - Germany
 - **Date**: 20 August 2025
 
-#### [Video Demo:](#)
+#### [Video Demo:](https://youtu.be/3kaADDea4sA)
 
-<a href="#"><img src="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/project/img/CS50%20FINAL%20PROJECT.gif" style="height: 80%; width:80%;"/></a>
+<a href="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/SQL/DB_Structure.gif"><img src="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/SQL/DB_Structure.gif" style="height: 80%; width:80%;"/></a>
 
 ## 🎯 Purpose
 The purpose of this project is to create a robust and scalable database called "MercadoLocalDB". This database will serve as the backend for a web and mobile application designed to connect consumers with local food producers and farmers' markets. In a world where people increasingly value fresh, sustainable, and locally-sourced products, this platform aims to solve the problem of decentralized information. Users will be able to easily discover which producers are in their area, what products they offer, which markets they can be found at, and what other consumers think. The ultimate goal is to boost the local economy, promote healthier and more sustainable consumption habits, and strengthen the bond between the community and its food producers.
@@ -341,13 +341,14 @@ LIMIT 10;
 - [SQLite](https://sqlite.org/index.html) relational database management system
 - [Mermaid](https://mermaid.js.org/) tool for graphing diagrams
 - [Markmap](https://markmap.js.org/) mind map viewer
+- [Google AI Studio](https://aistudio.google.com/) voices and image generator
 
 ## 🤝 Credits:
 
 **Harvard CS50 / SQL - 2025**
 ```bash
-  David J. Malan
-  malan@harvard.edu
+  David J. Malan | malan@harvard.edu
+  Carter Zenke | carter@cs50.harvard.edu
 ```
 
 **Participant:**
