@@ -7,7 +7,7 @@
 - **City and Country**: Darmstadt - Germany
 - **Date**: 20 August 2025
 
-#### [Video Demo:](https://youtu.be/3kaADDea4sA)
+#### [Video:](https://youtu.be/3kaADDea4sA) YouTube
 
 <a href="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/SQL/DB_Structure.gif"><img src="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/SQL/DB_Structure.gif" style="height: 80%; width:80%;"/></a>
 
