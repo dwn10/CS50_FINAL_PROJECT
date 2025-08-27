@@ -1,65 +1,64 @@
-# Hoja de Ruta para Fundar un "Kunstverein" (Asociación de Arte) en Alemania
+# Fahrplan zur Gründung eines Kunstvereins in Deutschland
 
-## Fase 1: Planificación y Fundación (1-3 Meses)
+## Phase 1: Planung und Gründung (1-3 Monate)
 
-### 1.1. Definición del Concepto
-- **[ ] Misión y Visión:** ¿Cuál es el propósito del Verein? (Promover artistas locales, organizar exposiciones, ofrecer talleres, etc.).
-- **[ ] Nombre del Verein:** Elegir un nombre único y representativo. Comprobar disponibilidad.
-- **[ ] Grupo Fundador:** Reunir al menos 7 personas (mínimo requerido para fundar un "e.V.").
+### 1.1. Konzeptdefinition
+- **[ ] Mission und Vision:** Was ist der Zweck des Vereins? (z.B. Förderung lokaler Künstler, Organisation von Ausstellungen, Anbieten von Workshops usw.).
+- **[ ] Name des Vereins:** Einen einzigartigen und repräsentativen Namen wählen. Verfügbarkeit prüfen.
+- **[ ] Gründergruppe:** Mindestens 7 Personen zusammenbringen (gesetzliches Minimum für die Gründung eines e.V.).
 
-### 1.2. Documentación Legal
-- **[ ] Redactar los Estatutos (Satzung):**
-    - Nombre y sede (Sitz) del Verein.
-    - Propósito (Zweck) - **¡Crucial para la exención de impuestos (Gemeinnützigkeit)!**
-    - Reglas de admisión y renuncia de miembros.
-    - Cuotas de membresía (Mitgliedsbeiträge).
-    - Composición de la junta directiva (Vorstand).
-    - Procedimiento para la asamblea de miembros (Mitgliederversammlung).
-- **[ ] Redactar el Protocolo de Fundación (Gründungsprotokoll):**
-    - Documentar la reunión fundacional, la aprobación de los estatutos y la elección de la junta directiva.
+### 1.2. Rechtliche Unterlagen
+- **[ ] Satzung verfassen:**
+    - Name und Sitz des Vereins.
+    - Zweck - **Entscheidend für die Gemeinnützigkeit!**
+    - Regeln für die Aufnahme und den Austritt von Mitgliedern.
+    - Mitgliedsbeiträge.
+    - Zusammensetzung des Vorstands.
+    - Verfahren für die Mitgliederversammlung.
+- **[ ] Gründungsprotokoll erstellen:**
+    - Dokumentation der Gründungsversammlung, der Verabschiedung der Satzung und der Wahl des Vorstands.
 
-### 1.3. Reunión Fundacional (Gründungsversammlung)
-- **[ ] Convocar a los miembros fundadores.**
-- **[ ] Leer y aprobar los estatutos.**
-- **[ ] Elegir a la Junta Directiva (Vorstand):** Presidente, Vicepresidente, Tesorero, etc.
-- **[ ] Firmar el protocolo y los estatutos.**
+### 1.3. Gründungsversammlung
+- **[ ] Gründungsmitglieder einberufen.**
+- **[ ] Satzung verlesen und verabschieden.**
+- **[ ] Vorstand wählen:** Vorsitzender, stellvertretender Vorsitzender, Schatzmeister usw.
+- **[ ] Protokoll und Satzung unterzeichnen.**
 
-## Fase 2: Registro y Formalización (2-4 Meses)
+## Phase 2: Registrierung und Formalisierung (2-4 Monate)
 
-### 2.1. Inscripción en el Registro de Asociaciones (Vereinsregister)
-- **[ ] Cita con un Notario (Notar):**
-    - La junta directiva debe presentar el protocolo y los estatutos.
-    - El notario certificará las firmas y enviará la solicitud al "Amtsgericht" (tribunal local).
-- **[ ] Esperar la inscripción:** Una vez inscrito, el Verein se convierte en "e.V." (eingetragener Verein).
+### 2.1. Eintragung ins Vereinsregister
+- **[ ] Termin beim Notar:**
+    - Der Vorstand muss das Protokoll und die Satzung vorlegen.
+    - Der Notar beglaubigt die Unterschriften und reicht den Antrag beim Amtsgericht ein.
+- **[ ] Auf die Eintragung warten:** Nach der Eintragung wird der Verein zum "e.V." (eingetragener Verein).
 
-### 2.2. Reconocimiento de Utilidad Pública (Gemeinnützigkeit)
-- **[ ] Enviar los estatutos a la Oficina de Hacienda (Finanzamt).**
-- **[ ] Solicitar el "Freistellungsbescheid":** Este documento certifica que el Verein está exento de impuestos corporativos y permite emitir recibos de donación (Spendenquittungen).
+### 2.2. Anerkennung der Gemeinnützigkeit
+- **[ ] Satzung beim Finanzamt einreichen.**
+- **[ ] "Freistellungsbescheid" beantragen:** Dieses Dokument bescheinigt, dass der Verein von der Körperschaftssteuer befreit ist und Spendenquittungen ausstellen darf.
 
-### 2.3. Apertura de Cuenta Bancaria
-- **[ ] Abrir una cuenta a nombre del Verein (e.V.).**
-- **[ ] Requisito:** Presentar el extracto del registro de asociaciones (Vereinsregisterauszug).
+### 2.3. Eröffnung eines Bankkontos
+- **[ ] Ein Konto auf den Namen des Vereins (e.V.) eröffnen.**
+- **[ ] Voraussetzung:** Vorlage des Vereinsregisterauszugs.
 
-## Fase 3: Puesta en Marcha y Operaciones (Continuo)
+## Phase 3: Inbetriebnahme und Betrieb (Laufend)
 
-### 3.1. Gestión y Administración
-- **[ ] Establecer el sistema de cuotas de membresía.**
-- **[ ] Contabilidad (Buchführung):** Registrar ingresos y gastos de forma meticulosa.
-- **[ ] Preparar la Asamblea Anual de Miembros (Jahreshauptversammlung).**
+### 3.1. Management und Verwaltung
+- **[ ] System für Mitgliedsbeiträge einrichten.**
+- **[ ] Buchführung:** Einnahmen und Ausgaben sorgfältig erfassen.
+- **[ ] Jährliche Mitgliederversammlung (Jahreshauptversammlung) vorbereiten.**
 
-### 3.2. Marketing y Comunicación
-- **[ ] Crear una página web y perfiles en redes sociales.**
-- **[ ] Diseñar un logo y material de marketing.**
-- **[ ] Captación de nuevos miembros y patrocinadores.**
+### 3.2. Marketing und Kommunikation
+- **[ ] Webseite und Social-Media-Profile erstellen.**
+- **[ ] Logo und Marketingmaterialien entwerfen.**
+- **[ ] Neue Mitglieder und Sponsoren gewinnen.**
 
-### 3.3. Actividades Artísticas
-- **[ ] Planificar el calendario de eventos:** Exposiciones, talleres, charlas, etc.
-- **[ ] Buscar un espacio o local (si es necesario).**
-- **[ ] Solicitar subvenciones y ayudas (Fördermittel) públicas y privadas.**
-- **[ ] Crear una red de contactos con artistas, galerías e instituciones culturales.**
+### 3.3. Künstlerische Tätigkeiten
+- **[ ] Veranstaltungskalender planen:** Ausstellungen, Workshops, Vorträge usw.
+- **[ ] Einen Raum oder eine Location suchen (falls erforderlich).**
+- **[ ] Öffentliche und private Fördermittel beantragen.**
+- **[ ] Ein Netzwerk mit Künstlern, Galerien und Kultureinrichtungen aufbauen.**
 
-### 3.4. Obligaciones Legales y Fiscales
-- **[ ] Presentar la declaración de impuestos (aunque esté exento).**
-- **[ ] Mantener actualizado el registro de asociaciones (cambios en la junta, etc.).**
-- **[ ] Cumplir con la normativa de protección de datos (DSGVO/GDPR).**
-
+### 3.4. Rechtliche und steuerliche Pflichten
+- **[ ] Steuererklärung einreichen (auch wenn steuerbefreit).**
+- **[ ] Vereinsregister auf dem neuesten Stand halten (z.B. bei Vorstandsänderungen).**
+- **[ ] Datenschutzgrundverordnung (DSGVO/GDPR) einhalten.**

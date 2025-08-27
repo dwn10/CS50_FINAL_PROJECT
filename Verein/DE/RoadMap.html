@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-family: ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+.markmap-dark {
+  background: #27272a;
+  color: white;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.12/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.18.12/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.12/dist/index.js"></script><script>(r => {
+              setTimeout(r);
+            })(function renderToolbar() {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+              if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+                document.documentElement.classList.add("markmap-dark");
+              }
+            })(() => window.markmap,null,{"content":"Fahrplan: Gr&#xfc;ndung eines Kunstvereins","children":[{"content":"Phase 1: Planung und Gr&#xfc;ndung (1-3 Monate)","children":[{"content":"<strong>Konzeptdefinition</strong>","children":[{"content":"Mission und Vision","children":[],"payload":{"tag":"li","lines":"10,11"}},{"content":"Name des Vereins","children":[],"payload":{"tag":"li","lines":"11,12"}},{"content":"Gr&#xfc;ndergruppe (min. 7 Personen)","children":[],"payload":{"tag":"li","lines":"12,13"}}],"payload":{"tag":"li","lines":"9,13"}},{"content":"<strong>Rechtliche Unterlagen</strong>","children":[{"content":"Satzung verfassen","children":[],"payload":{"tag":"li","lines":"14,15"}},{"content":"Gr&#xfc;ndungsprotokoll erstellen","children":[],"payload":{"tag":"li","lines":"15,16"}}],"payload":{"tag":"li","lines":"13,16"}},{"content":"<strong>Gr&#xfc;ndungsversammlung</strong>","children":[{"content":"Satzung verabschieden","children":[],"payload":{"tag":"li","lines":"17,18"}},{"content":"Vorstand w&#xe4;hlen","children":[],"payload":{"tag":"li","lines":"18,19"}},{"content":"Dokumente unterzeichnen","children":[],"payload":{"tag":"li","lines":"19,21"}}],"payload":{"tag":"li","lines":"16,21"}}],"payload":{"tag":"h2","lines":"8,9"}},{"content":"Phase 2: Registrierung und Formalisierung (2-4 Monate)","children":[{"content":"<strong>Eintragung ins Vereinsregister</strong>","children":[{"content":"Termin beim Notar","children":[],"payload":{"tag":"li","lines":"23,24"}},{"content":"Antrag beim Amtsgericht","children":[],"payload":{"tag":"li","lines":"24,25"}},{"content":"&quot;e.V.&quot;-Status erhalten","children":[],"payload":{"tag":"li","lines":"25,26"}}],"payload":{"tag":"li","lines":"22,26"}},{"content":"<strong>Anerkennung der Gemeinn&#xfc;tzigkeit</strong>","children":[{"content":"Antrag beim Finanzamt","children":[],"payload":{"tag":"li","lines":"27,28"}},{"content":"&quot;Freistellungsbescheid&quot; erhalten","children":[],"payload":{"tag":"li","lines":"28,29"}}],"payload":{"tag":"li","lines":"26,29"}},{"content":"<strong>Er&#xf6;ffnung eines Bankkontos</strong>","children":[{"content":"Auf den Namen des Vereins e.V.","children":[],"payload":{"tag":"li","lines":"30,32"}}],"payload":{"tag":"li","lines":"29,32"}}],"payload":{"tag":"h2","lines":"21,22"}},{"content":"Phase 3: Inbetriebnahme und Betrieb","children":[{"content":"<strong>Management und Verwaltung</strong>","children":[{"content":"Beitragssystem","children":[],"payload":{"tag":"li","lines":"34,35"}},{"content":"Buchf&#xfc;hrung","children":[],"payload":{"tag":"li","lines":"35,36"}},{"content":"J&#xe4;hrliche Mitgliederversammlung","children":[],"payload":{"tag":"li","lines":"36,37"}}],"payload":{"tag":"li","lines":"33,37"}},{"content":"<strong>Marketing und Kommunikation</strong>","children":[{"content":"Webseite &amp; Soziale Medien","children":[],"payload":{"tag":"li","lines":"38,39"}},{"content":"Logo und Branding","children":[],"payload":{"tag":"li","lines":"39,40"}},{"content":"Mitgliederwerbung","children":[],"payload":{"tag":"li","lines":"40,41"}}],"payload":{"tag":"li","lines":"37,41"}},{"content":"<strong>K&#xfc;nstlerische T&#xe4;tigkeiten</strong>","children":[{"content":"Veranstaltungskalender","children":[],"payload":{"tag":"li","lines":"42,43"}},{"content":"Raumsuche","children":[],"payload":{"tag":"li","lines":"43,44"}},{"content":"Beantragung von F&#xf6;rdermitteln","children":[],"payload":{"tag":"li","lines":"44,45"}}],"payload":{"tag":"li","lines":"41,45"}},{"content":"<strong>Rechtliche Pflichten</strong>","children":[{"content":"Steuererkl&#xe4;rung","children":[],"payload":{"tag":"li","lines":"46,47"}},{"content":"Aktualisierung des Registers","children":[],"payload":{"tag":"li","lines":"47,48"}},{"content":"Datenschutz (DSGVO)","children":[],"payload":{"tag":"li","lines":"48,49"}}],"payload":{"tag":"li","lines":"45,49"}}],"payload":{"tag":"h2","lines":"32,33"}}],"payload":{"tag":"h1","lines":"6,7"}},{"colorFreezeLevel":2,"maxWidth":300})</script>
+</body>
+</html>
