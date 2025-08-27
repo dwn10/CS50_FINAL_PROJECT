@@ -1,4 +1,4 @@
-```mermaid
+
 graph TD
     subgraph Fase 1: Planificación y Fundación
         A1[Definir Concepto: Misión y Nombre] --> A2[Reunir Grupo Fundador mín. 7]
@@ -20,7 +20,7 @@ graph TD
         C3 --> C4[Buscar Financiación: Subvenciones y Patrocinios]
         C1 --> C5[Cumplir Obligaciones: Impuestos y DSGVO]
     end
-```
+
     A5 --> B1
     B5 --> C1
 
