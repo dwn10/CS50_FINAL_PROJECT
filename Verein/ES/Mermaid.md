@@ -1,5 +1,5 @@
 
-```mermaid
+graph TD
     subgraph Fase 1: Planificación y Fundación
         A1[Definir Concepto: Misión y Nombre] --> A2[Reunir Grupo Fundador (mín. 7)];
         A2 --> A3[Redactar Estatutos (Satzung)];
@@ -27,4 +27,3 @@
     style Fase1 fill:#E0F7FA,stroke:#00796B
     style Fase2 fill:#FFF9C4,stroke:#FBC02D
     style Fase3 fill:#FCE4EC,stroke:#D81B60
-```
