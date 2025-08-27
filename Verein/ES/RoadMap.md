@@ -1,8 +1,3 @@
----
-markmap:
-  colorFreezeLevel: 2
-  maxWidth: 300
----
 
 # Hoja de Ruta: Fundación de un Kunstverein
 
