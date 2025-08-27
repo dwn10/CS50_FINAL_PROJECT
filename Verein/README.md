@@ -31,8 +31,8 @@ graph TD
     style Fase 3 fill:#FCE4EC,stroke:#D81B60
 ```
 
-<a href="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/Verein/DE/RoadMap1.png"><img src="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/Verein/DE/RoadMap1.png" style="height: 80%; width:80%;"/></a>
-<a href="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/Verein/DE/RoadMap2.png"><img src="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/Verein/DE/RoadMap2.png" style="height: 80%; width:80%;"/></a>
+<a href="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/Verein/DE/RoadMap1.png"><img src="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/Verein/DE/RoadMap1.png" style="height: 100%; width:100%;"/></a>
+<a href="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/Verein/DE/RoadMap2.png"><img src="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/Verein/DE/RoadMap2.png" style="height: 100%; width:100%;"/></a>
 
 ## Phase 1: Planung und Gründung (1-3 Monate)
 
