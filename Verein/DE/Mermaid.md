@@ -20,11 +20,10 @@ graph TD
         C3 --> C4[Buscar Financiación: Subvenciones y Patrocinios]
         C1 --> C5[Cumplir Obligaciones: Impuestos y DSGVO]
     end
-
+```
     A5 --> B1
     B5 --> C1
 
     style Fase 1 fill:#E0F7FA,stroke:#00796B
     style Fase 2 fill:#FFF9C4,stroke:#FBC02D
     style Fase 3 fill:#FCE4EC,stroke:#D81B60
-```
