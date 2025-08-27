@@ -1,50 +1,30 @@
-# Hoja de Ruta para la Fundación de un Verein en Alemania
-
-Aquí se muestra el diagrama de flujo con las fases y pasos clave para constituir una asociación (Verein) en Alemania.
-
 ```mermaid
 graph TD
-    subgraph "Fase 1: Planificación y Fundación"
-        A1[Definir Concepto: Misión y Nombre] --> A2[Reunir Grupo Fundador (mín. 7)];
-        A2 --> A3[Redactar Estatutos (Satzung)];
-        A3 --> A4[Celebrar Reunión Fundacional];
-        A4 --> A5[Elegir Junta Directiva (Vorstand)];
+    subgraph Fase 1: Planificación y Fundación
+        A1[Definir Concepto: Misión y Nombre] --> A2[Reunir Grupo Fundador mín. 7]
+        A2 --> A3[Redactar Estatutos Satzung]
+        A3 --> A4[Celebrar Reunión Fundacional]
+        A4 --> A5[Elegir Junta Directiva Vorstand]
     end
 
-    subgraph "Fase 2: Registro y Formalización"
-        B1[Cita con Notario para certificar firmas] --> B2[Inscribir en Registro de Asociaciones (Amtsgericht)];
-        B2 --> B3[Obtener estatus "e.V."];
-        B3 --> B4[Solicitar Utilidad Pública (Finanzamt)];
-        B4 --> B5[Abrir Cuenta Bancaria del Verein];
+    subgraph Fase 2: Registro y Formalización
+        B1[Cita con Notario para certificar firmas] --> B2[Inscribir en el Registro de Asociaciones Amtsgericht]
+        B2 --> B3[Obtener estatus e.V.]
+        B3 --> B4[Solicitar Utilidad Pública Finanzamt]
+        B4 --> B5[Abrir Cuenta Bancaria del Verein]
     end
 
-    subgraph "Fase 3: Operaciones"
-        C1[Gestión Administrativa: Cuotas y Contabilidad] --> C2[Marketing: Web, Redes, Captación de Miembros];
-        C2 --> C3[Planificar Actividades: Exposiciones, Talleres];
-        C3 --> C4[Buscar Financiación: Subvenciones y Patrocinios];
-        C1 --> C5[Cumplir Obligaciones: Impuestos y DSGVO];
+    subgraph Fase 3: Operaciones
+        C1[Gestión Administrativa: Cuotas y Contabilidad] --> C2[Marketing: Web, Redes, Captación de Miembros]
+        C2 --> C3[Planificar Actividades: Exposiciones, Talleres]
+        C3 --> C4[Buscar Financiación: Subvenciones y Patrocinios]
+        C1 --> C5[Cumplir Obligaciones: Impuestos y DSGVO]
     end
 
-    %% Conexiones entre fases
-    A5 --> B1;
-    B5 --> C1;
+    A5 --> B1
+    B5 --> C1
 
-    %% Estilos aplicados a nodos individuales para compatibilidad
-    style A1 fill:#E0F7FA,stroke:#00796B,stroke-width:2px
-    style A2 fill:#E0F7FA,stroke:#00796B,stroke-width:2px
-    style A3 fill:#E0F7FA,stroke:#00796B,stroke-width:2px
-    style A4 fill:#E0F7FA,stroke:#00796B,stroke-width:2px
-    style A5 fill:#E0F7FA,stroke:#00796B,stroke-width:2px
-    
-    style B1 fill:#FFF9C4,stroke:#FBC02D,stroke-width:2px
-    style B2 fill:#FFF9C4,stroke:#FBC02D,stroke-width:2px
-    style B3 fill:#FFF9C4,stroke:#FBC02D,stroke-width:2px
-    style B4 fill:#FFF9C4,stroke:#FBC02D,stroke-width:2px
-    style B5 fill:#FFF9C4,stroke:#FBC02D,stroke-width:2px
-
-    style C1 fill:#FCE4EC,stroke:#D81B60,stroke-width:2px
-    style C2 fill:#FCE4EC,stroke:#D81B60,stroke-width:2px
-    style C3 fill:#FCE4EC,stroke:#D81B60,stroke-width:2px
-    style C4 fill:#FCE4EC,stroke:#D81B60,stroke-width:2px
-    style C5 fill:#FCE4EC,stroke:#D81B60,stroke-width:2px
+    style Fase 1 fill:#E0F7FA,stroke:#00796B
+    style Fase 2 fill:#FFF9C4,stroke:#FBC02D
+    style Fase 3 fill:#FCE4EC,stroke:#D81B60
 ```
