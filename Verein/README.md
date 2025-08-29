@@ -1,5 +1,9 @@
 # Fahrplan zur Gründung eines Kunstvereins in Deutschland
 
+#### [Media:](https://g.co/gemini/share/43da6d7a27a0) STORY BOOK
+
+<a href="https://g.co/gemini/share/43da6d7a27a0"><img src="https://github.com/dwn10/CS50_FINAL_PROJECT/blob/main/Verein/DE/AM.png" style="height: 80%; width:80%;"/></a>
+
 ```mermaid
 graph TD
     subgraph Phase 1: Planung und Gründung
