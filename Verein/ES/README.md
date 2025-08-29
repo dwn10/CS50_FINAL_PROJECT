@@ -1,5 +1,9 @@
 # Hoja de Ruta para Fundar un "Kunstverein" (Asociación de Arte) en Alemania
 
+#### [Media: ES](https://gemini.google.com/share/73077f74dd5d) STORY BOOK
+
+<a href="https://gemini.google.com/share/73077f74dd5d"><img src="#" style="height: 50%; width:50%;"/></a>
+
 ## Fase 1: Planificación y Fundación (1-3 Meses)
 
 ### 1.1. Definición del Concepto
