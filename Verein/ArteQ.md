@@ -405,8 +405,7 @@ Wir nehmen die Sicherheit unserer Webseite sehr ernst. Falls Sie eine Sicherheit
 - Unterstützung für Hilfstechnologien
 
 ## Lizenz
-
-Dieses Projekt ist zur privaten Nutzung bestimmt. Alle Rechte vorbehalten.
+- Dieses Projekt ist zur privaten Nutzung bestimmt. Alle Rechte vorbehalten.
 ArteQ & Ecuador-IT
 ---
 
